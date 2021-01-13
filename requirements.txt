@@ -13,6 +13,6 @@ pyOpenSSL==17.0.0
 pyparsing==2.2.0
 pypiwin32==219; sys_platform == 'win32' and python_version < '3.6'
 pypiwin32==220; sys_platform == 'win32' and python_version >= '3.6'
-requests==2.14.2
+requests==2.20.0
 six==1.10.0
 websocket-client==0.40.0
